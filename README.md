@@ -1,2 +1,2 @@
 # terms-of-service
-11B Digital Terms of Service
+11B Digital Terms of Service documentation
